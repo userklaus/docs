@@ -1,3 +1,10 @@
+Freeplane stopped running properly. When I start it via command line I get the following:
+WARNING: A terminally deprecated method in java.lang.System has been called
+WARNING: System::setSecurityManager has been called by org.freeplane.plugin.script.ScriptingRegistration (bundle://9)
+WARNING: Please consider reporting this to the maintainers of org.freeplane.plugin.script.ScriptingRegistration
+
+I hope this helps
+
 # How to Start Contributing
 
 Freeplane is developed and maintained by volunteers who want to share their passion and skills with the world. The project was launched by its current lead Dimitry Polivaev in 2007.
